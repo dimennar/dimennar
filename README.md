@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Jakarta  
 
-- 👯 I’m looking to collaborate on ...  
+- 👯 I’m looking to collaborate on Lombok project <span style="color:yellow">@JavaBean</span>
 
 - 💬 Ask me about Spring Boot  
 
